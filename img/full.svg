@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+  <g id="full" transform="translate(24 -6) rotate(45)">
+    <rect id="Rectangle_99" data-name="Rectangle 99" width="30" height="30" transform="translate(0 21.213) rotate(-45)" fill="#fff"/>
+    <path id="Path_70" data-name="Path 70" d="M38.183,21.213,31.4,14.425V19.72H22.706V11.031H28L21.213,4.242l-6.788,6.788H19.72V19.72H11.031V14.425L4.242,21.213,11.031,28V22.706H19.72V31.4H14.425l6.788,6.788L28,31.4H22.706V22.706H31.4V28Z" fill="#035ec8"/>
+  </g>
+</svg>
