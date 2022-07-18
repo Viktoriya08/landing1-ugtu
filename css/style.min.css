@@ -1491,13 +1491,14 @@ a
 .partners__img img
 {
 	width: 100%;
+	height: 100%;
 }
 @media (min-width:1366px)
 {
 	.partners__img
 	{
-		height: 130px;
-		width: 260px;
+		height: 100px;
+		width: 210px;
 	}
 }
 .slider__elem
